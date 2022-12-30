@@ -44,14 +44,33 @@ Javascript.
 # Project Screenshots:
 
 ## Homepage:
+![home](https://user-images.githubusercontent.com/121093146/210041841-bd750cf4-6fd9-4017-846d-d5e7010ba989.png)
 
 ## About us:
+![about](https://user-images.githubusercontent.com/121093146/210041855-de7c3fbd-1aba-4c86-a9f7-0558f7622976.png)
 
 ## Contact us:
+![contactus](https://user-images.githubusercontent.com/121093146/210041881-c5e403ca-a4e6-4849-8274-3b358c287584.png)
 
 ## Services:
+![services](https://user-images.githubusercontent.com/121093146/210041897-057c3c9c-55f3-4bb5-936b-7f7872e2169a.png)
+
+## Gallery:
+![gallery](https://user-images.githubusercontent.com/121093146/210041912-72e0a693-79f6-4c63-b1b2-e406dd186e06.png)
 
 ## Azure bot functionality:
+
+![bot1](https://user-images.githubusercontent.com/121093146/210041929-3a2388c4-378a-4cf7-b2a5-b1b94dbb343d.png)
+
+![bot2](https://user-images.githubusercontent.com/121093146/210041935-13bf5420-fd47-495f-84f5-5a476e45e281.png)
+
+![bot3](https://user-images.githubusercontent.com/121093146/210041943-16ea742d-e9dd-47e7-8212-ad0e9149a136.png)
+
+![bot4](https://user-images.githubusercontent.com/121093146/210041956-5172eb0f-db9f-41d6-92a7-fb8cd26a381f.png)
+
+![bot5](https://user-images.githubusercontent.com/121093146/210041964-80b1eba6-98ac-43b3-b706-88c69a99085a.png)
+
+# Thank you..
 
 
 
